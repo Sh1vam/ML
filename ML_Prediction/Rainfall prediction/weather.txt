@@ -1,0 +1,15 @@
+{"coord": {"lon": 72.9333, "lat": 22.5667}, "weather": [{"id": 801, "main": "Clouds", "description": "few clouds", "icon": "02d"}], "base": "stations", "main": {"temp": 303.14, "feels_like": 304.03, "temp_min": 303.14, "temp_max": 303.14, "pressure": 1008, "humidity": 49, "sea_level": 1008, "grnd_level": 1004}, "visibility": 10000, "wind": {"speed": 2.69, "deg": 354, "gust": 3.2}, "clouds": {"all": 24}, "dt": 1696050198, "sys": {"type": 1, "id": 9060, "country": "IN", "sunrise": 1696035547, "sunset": 1696078661}, "timezone": 19800, "id": 1278685, "name": "Anand", "cod": 200} 
+---------------------------------------------------------------
+Temperature: 29°C | 85°F
+Min. Temp.: 29°C | 85°F
+Max. Temp.: 29°C | 85°F
+Humidity: 49%
+Wind: 9 kmh | 6 mph, N
+Sunrise: 06:29 AM
+Sunset: 06:27 PM
+
+Clouds
+Anand, India
+Saturday, 10:33 AM
+The model predicts : No Rain Today | No Rain Tomorrow
+-----------------------------------------------------------------
